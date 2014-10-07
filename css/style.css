@@ -517,7 +517,7 @@ small {
     transition: all ease-in-out 0.2s;
 }
 .header .topinfo-block form .input-search:focus {
-    width: 110px;
+    width: 275px;
 }
 .header .topinfo-block form .submit-search {
     border:none;
