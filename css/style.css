@@ -6,6 +6,12 @@
     width: 100%;
     padding: 0px;
 }
+img.lazyOwl.product-mainpic {
+height: 255px;
+}
+img.product-secondpic {
+height: 255px;
+}
 /* == COLOR GUIDE == 
     
     light green: #7ac144;
@@ -575,7 +581,7 @@ small {
 }
 /* ========== NAVIGATION ======= */
  .navigation {
-    margin-top: 60px;
+    margin-top: 25px;
 }
 .navigation .navbar-default {
     background: #FFF;
