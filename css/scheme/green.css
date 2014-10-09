@@ -153,8 +153,8 @@ small {
   color: #666666;
 }
 .header .topinfo-block .info .icon {
-  border: 2px solid #c44569;
-  color: #c44569;
+  border: 2px solid #7ac144;
+  color: #7ac144;
 }
 /* ========== NAVIGATION ======= */
 .navigation .navbar-default {
@@ -277,7 +277,7 @@ margin: 0 auto;
 width: 100%;
 }
 .widget-box {
-  border-top: 1px dotted #cccccc;
+ /* border-top: 1px dotted #cccccc;*/
 }
 .widget-box .opentime {
   color: white;
