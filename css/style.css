@@ -1,5 +1,10 @@
-/*CUSTOM*/
-
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.post-content p {
+font-size: 12px;
+}
 .CImage {
 margin-top: -150px;
 margin-bottom: 180px;
@@ -16,6 +21,27 @@ background-size: cover;
 padding-right: 0px;
 padding-left: 0px;
 
+}
+.container.foot.about{
+    background-image: url("../images/KK3.jpg");
+}
+.container.foot.hospitality{
+    background-image: url("../images/KK4.jpg");
+}
+.container.foot.healthcare{
+    background-image: url("../images/KK5.jpg");
+}
+.container.foot.commercial{
+    background-image: url("../images/KK6.jpg");
+}
+.container.foot.services{
+    background-image: url("../images/KK7.jpg");
+}
+.container.foot.newsletter{
+    background-image: url("../images/KK8.jpg");
+}
+.container.foot.contact{
+    background-image: url("../images/KK9.jpg");
 }
 .overlayfooter{
     width: 100%;
@@ -770,13 +796,13 @@ small {
     background: transparent;
 }
 .topslider .carousel-indicators li.active:before {
-    content:'\022C8';
+    content:'\1D50E';
     margin-top: -14px;
 }
 .topslider .carousel-indicators li:before {
     font-size: 18px;
     position: absolute;
-    content:'\022C4';
+    content:'\025EF';
     margin-top: -12px;
     left: 5px;
     color: #FFF;
@@ -784,10 +810,13 @@ small {
 .topslider .caption {
     position: absolute;
     top:0;
-    padding-top : 25%;
+    padding-top : 23%;
     display: block;
     width: 100%;
     height: 100%;
+    padding-bottom: 500px;
+    background:linear-gradient(rgba(0,0,0,0.7), rgba(255,255,255,0.3));
+
 }
 .topslider .slider-title, .topslider .slider-desc, .topslider .slider-button {
     display: block;
@@ -953,7 +982,7 @@ small {
     font-size: 17px;
     font-weight: bold;
     line-height: 20px;
-    margin-top: 0;
+    margin-top: 5px;
 }
 .recent-blog .content h2 a {
     color: #FFF;
