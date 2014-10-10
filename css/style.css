@@ -1,3 +1,7 @@
+/*CUSTOM*/
+.row.ending{
+    text-align: center;
+}
 .row{
     margin-left: 0px;
     margin-right: 0px;
@@ -1126,6 +1130,7 @@ small {
     margin-bottom: 15px;
     width: 80%;
     margin-left: 0px;
+    margin-top: 0px;
 }
 .widget-box .openhour {
     padding-left: 0;
