@@ -1,4 +1,5 @@
 /*CUSTOM*/
+
 .row.ending{
     text-align: center;
 }
@@ -56,7 +57,7 @@ padding-left: 0px;
 }
 #onpage a{
     color: #666;
-    font-size: 16px !important;
+    font-size: 19px !important;
 
 }
 .navbar{
@@ -648,12 +649,12 @@ small {
     border-radius: 0;
     border-bottom: 3px solid #444;
 }
-.navigation .navbar-default .nav>li {
+/*.navigation .navbar-default .nav>li {
     border-right: 1px solid #EDEDED;
 }
 .navigation .navbar-default .nav>li:first-child {
     border-left: 1px solid #EDEDED;
-}
+}*/
 .navigation .navbar-nav {
     margin: 0 auto;
     display: table;
@@ -665,7 +666,7 @@ small {
     text-transform: uppercase;
     font-family:'Oswald', sans-serif;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 17px;
     -webkit-transition: all ease-in-out 0.2s;
     -moz-transition: all ease-in-out 0.2s;
     -o-transition: all ease-in-out 0.2s;
@@ -675,8 +676,8 @@ small {
     color: #000;
 }
 .navigation .navbar-default .nav>li>a {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .navigation .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     background: inherit;
