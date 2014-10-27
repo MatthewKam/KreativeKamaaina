@@ -1,5 +1,16 @@
 /*CUSTOM*/
-
+.container.navi {
+width: 90%;
+}
+.titledesc a img {
+width: 400px;
+margin-top: 5px;
+}
+p#aboutuslanding {
+width: 90%;
+padding-top: 20px;
+margin: 0 auto;
+}
 .row.ending{
     text-align: center;
 }
@@ -551,7 +562,7 @@ small {
 .header .sitelogo-block .titledesc {
     color: #CCC;
     font-weight: 100;
-    margin-left: 110px;
+    margin-left: 0px;
     font-size: 18px;
 }
 .header .sitelogo-block .titledesc h1 {
@@ -640,7 +651,7 @@ small {
 }
 /* ========== NAVIGATION ======= */
  .navigation {
-    margin-top: 25px;
+    margin-top: 5px;
 }
 .navigation .navbar-default {
     background: #FFF;
@@ -943,7 +954,7 @@ small {
 }
 .featured {
     margin-top:20px;
-    margin-bottom: 40px;
+    margin-bottom: 0px;
 }
 .featured .owl-theme .owl-controls .owl-buttons div {
     margin: 0;
@@ -1191,7 +1202,8 @@ small {
     color: #111;
 }
 .logo-bottom {
-    margin-top: 30px;
+margin-top: 40px;
+width: 320px;
 }
 /* ====== WIDGET PRODUCT ====== */
  .wdgt-product {
