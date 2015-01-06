@@ -1,4 +1,17 @@
 /*CUSTOM*/
+/*img#carouselimage1 {
+width: 100%;
+margin-top: -30px;
+}*/
+img#softTreatments {
+margin-left: -100px;
+}
+img#hospital {
+width: 405px;
+}
+img#residentialhome {
+width: 360px;
+}
 p.hoverFlip {
 font-size: 25px;
 margin-left: 30px;
